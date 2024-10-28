@@ -57,9 +57,9 @@ radio.setGroup(1)
 radio.setTransmitPower(7)
 item = "S"
 basic.showLeds(`
-    . . . . .
-    . # . # .
-    . . . . .
     . # # # .
-    . # . # .
+    . . # . .
+    . . # . .
+    # . # . .
+    . # . . .
     `)
